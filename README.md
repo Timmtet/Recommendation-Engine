@@ -81,5 +81,7 @@ o	Solution: Filtered dataset to include movies released after 2015.
 •	Improve model efficiency using TF-IDF or Deep Learning
 
 💡 Acknowledgments
+
 •	Kaggle: Movie dataset
+
 •	TMDB API: Movie posters
