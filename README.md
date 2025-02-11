@@ -1,4 +1,4 @@
-🎬  ###**Movie Recommendation Engine**
+🎬  #**Movie Recommendation Engine**
 Deploying a Content-Based Movie Recommendation System with Streamlit & TMDB API
 
 📌 Overview
