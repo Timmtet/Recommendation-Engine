@@ -45,6 +45,7 @@ This project is focused on building and deploying a content-based movie recommen
 
 git clonehttps://github.com/Timmtet/Recommendation-Engine.git
 cd movie-recommendation-engine
+
 2️ Activate the Virtual Environment
 
 If you're using Windows:
